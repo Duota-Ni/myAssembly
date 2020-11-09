@@ -26,6 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 在本地创建一个表单组件
 
 > 参考elementUI源码
+> 参考https://juejin.im/post/6844903808787546125
 
 ### 包含内容
 1. Radio单选框
