@@ -1,9 +1,11 @@
 import DuTest from './test'
 import DuButton from './button'
+import DuInput from './input';
 //所有组件列表
 const components = [
     DuTest,
-    DuButton
+    DuButton,
+    DuInput,
 ]
 //定义install方法，接收Vue作为参数
 const install = function(Vue){
