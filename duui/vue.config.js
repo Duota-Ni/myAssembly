@@ -16,7 +16,6 @@ module.exports = {
         config.resolve.alias
           .set('@',path.resolve('examples'))
           .set('~',path.resolve('packages'))
-        
         //把package和examples加入编译，因为新增的文件默认是不被webpack处理的
         config.module
         .rule('js')

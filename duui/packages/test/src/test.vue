@@ -4,42 +4,15 @@
 <script>
 export default {
   name:"DuTest",
-  componets:{
-
-  },
-  props:{
-
-  },
-  vuex:{
-
-  },
   data(){
     return {
     num:0
     }
   },
-  computed:{
-
-  },
-  watch:{
-
-  },
   methods:{
       handleClick(){
           this.num++
       }
-  },
-  beforeCreate(){
-
-  },
-  created(){
-
-  },
-  beforeMount(){
-
-  },
-  mounted(){
-
   }
 }
 </script>
